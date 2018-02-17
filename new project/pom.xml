@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.myteam</groupId>
+  <artifactId>newproject</artifactId>
+  <version>1.0.0</version>
+  <name>new project</name>
+  <description></description>
+  <repositories>
+    <repository>
+      <id>guvnor-m2-repo</id>
+      <name>Guvnor M2 Repo</name>
+      <url>http://ec2-13-59-80-187.us-east-2.compute.amazonaws.com:8080/drools-wb/maven2/</url>
+    </repository>
+  </repositories>
+</project>
